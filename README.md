@@ -1,21 +1,19 @@
 ## Hi there 👋
 
-Bohdan Kondratskyi, 17 y.o., Ukraine, Dnipro //
+**Bohdan Kondratskyi**, 17 y.o., Ukraine, Dnipro //
 Budding Full-Stack developer
 
-🗣️ Languages:
+🗣️ **Languages:**
 - English: ⭐⭐⭐⭐ (C1)
 - Ukrainian: ⭐⭐⭐⭐⭐ (native)
 - Russian: ⭐⭐⭐⭐⭐ (native)
 
-📝 Projects:
+📝 **Experience:**
 - Pet projects:
    - Issue tracker (coming soon)
    - Messanger clone (coming soon)
-- Commercial experience:
-   - Kapustin International
 
-🙋 About me:
+🙋 **About me:**
 - INFJ personality type
 - Healthy lifestyle
 - Lifting, running
