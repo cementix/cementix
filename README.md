@@ -11,7 +11,7 @@ Budding Full-Stack developer
 📝 **Experience:**
 - Pet projects:
    - Issue tracker
-      - [Repository](https://github.com/cementix/cementix/issue-tracker)
+      - [Repository](https://github.com/cementix/issue-tracker)
       - [Deployment](https://issue-tracker-rose-psi.vercel.app/)
    - Messanger clone (coming soon)
 
