@@ -10,7 +10,7 @@ Budding Full-Stack developer
 
 📝 **Experience:**
 - Pet projects:
-   - Issue tracker (coming soon)
+   - - [Issue tracker](https://gist.github.com/cementix/gist:e25dc68f03c49f55b5ae57bcc1b64405) (click for details)
    - Messanger clone (coming soon)
 
 🙋 **About me:**
