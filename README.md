@@ -16,9 +16,7 @@ Budding Full-Stack developer
    - Messanger clone (coming soon)
 
 🙋 **About me:**
-- INFJ personality type
-- Healthy lifestyle
-- Lifting, running
-- Shounen LNs and anime
-- Valorant
+- INFJ
+- Healthy lifestyle, lifter, runner
+- Delighted by shounen light novels
 - Adore dogs
