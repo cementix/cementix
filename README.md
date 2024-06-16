@@ -15,7 +15,7 @@ Budding Full-Stack developer
       - [Deployment](https://issue-tracker-rose-psi.vercel.app/)
    - Messanger clone (coming soon)
  
-[![<cementos>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username<cementos>&theme=<dark>)](https://github.com/JeremyTsaii/leetcode-stats)
+[![cementos's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=cementos&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 
 🙋 **About me:**
