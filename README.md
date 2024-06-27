@@ -27,7 +27,7 @@ I'm interested in web development, AI technologies, UX/UI design.
         <p><a href="https://github.com/cementix/issue-tracker" target="_blank">GitHub Repo</a></p>
         <p><a href="https://issue-tracker-rose-psi.vercel.app/" target="_blank">Vercel Deployment</a></p>
        </div>
-        <p>A comprehensive issue tracking system built with React and Node.js, featuring real-time updates, user authentication, and role-based access control.</p>
+        <p>A comprehensive issue tracking system built with Next.js and TypeScript, featuring user authentication, pagination and filtering issues.</p>
         <img src="assets/issue-tracker-screenshot.png" alt="Issue Tracker Screenshot" width="200"/>
       </td>
       <td align="center" width="50%">
