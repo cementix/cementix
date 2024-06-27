@@ -1,6 +1,6 @@
 # Hi!👋 My name is Bohdan Kondratsky
 
-## Frontend Developer (React/Next.js + TypeScript)
+## Full Stack Developer (React/Next.js + TypeScript)
 
 <p align="center">
  <img width="400" heigh="100" src="assets/bg.gif" alt="desktop"/>
