@@ -22,7 +22,7 @@ I'm interested in web development, AI technologies, UX/UI design.
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>Issue Tracker</h3>
+        <h3>Issue Tracker - Full Stack Project</h3>
        <div style="display: flex; gap: 10px;">
         <p><a href="https://github.com/cementix/issue-tracker" target="_blank">GitHub Repo</a></p>
         <p><a href="https://issue-tracker-rose-psi.vercel.app/" target="_blank">Vercel Deployment</a></p>
@@ -31,7 +31,7 @@ I'm interested in web development, AI technologies, UX/UI design.
         <img src="assets/issue-tracker-screenshot.png" alt="Issue Tracker Screenshot" width="200"/>
       </td>
       <td align="center" width="50%">
-        <h3>Messenger Clone</h3>
+        <h3>Messenger Clone - Full Stack Project</h3>
         <div style="display: flex; gap: 10px;">
         <p><a href="https://github.com/cementix/messenger-clone" target="_blank">GitHub Repo</a></p>
        <p><a href="https://messenger-clone-two-weld.vercel.app/" target="_blank">Vercel Deployment</a></p>
@@ -42,6 +42,24 @@ I'm interested in web development, AI technologies, UX/UI design.
     </tr>
   </table>
 </div>
+
+## Skills
+
+<p>
+  <h3 align="center">Langs</h3>
+  <p align="center">
+   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css" />
+  </p>
+  <h3 align="center">Tools</h3>
+  <p align="center">
+   <img src="https://skillicons.dev/icons?i=materialui,tailwind,postgres,prisma,mongodb,figma,git,yarn,npm,gcp,github" />
+  </p>
+  <h3 align="center">Software</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,postman" />
+  </p>
+  <br>
+</p>
 
 ## Stats
 
