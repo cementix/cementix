@@ -1,29 +1,29 @@
-## Hi there 👋
+# Hi!👋 My name is Bohdan Kondratsky
 
-**Bohdan Kondratskyi**, 17 y.o., Ukraine, Dnipro //
-Budding Full-Stack developer
+## Frontend Developer (React/Next.js + TypeScript)
 
-🗣️ **Languages:**
-- English: ⭐⭐⭐⭐ (C1)
-- Ukrainian: ⭐⭐⭐⭐⭐ (native)
-- Russian: ⭐⭐⭐⭐⭐ (native)
+<p align="center">
+ <img width="800" heigh="200" src="assets/bg.gif" alt="desktop"/>
+</p>
 
-📝 **Experience:**
-- Pet projects:
-   - Issue tracker (there is still things to add and refactor)
-      - [Repository](https://github.com/cementix/issue-tracker)
-      - [Deployment](https://issue-tracker-rose-psi.vercel.app/)
-   - Messanger clone (coming soon)
- 
-[![cementos's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=cementos&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
+I'm interested in web development, AI technologies, UX/UI design.
 
-<a href="http://www.github.com/cementix"><img src="https://github-readme-stats.vercel.app/api?username=cementix&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cementix's GitHub stats" /></a>
+- 🌍  I'm based in Dnipro, Ukraine.
+- ✉️  You can contact me at [bodakondrackij@gmail.com](mailto:bodakondrackij@gmail.com)
+- 🤝  I'm open to collaborating on commercial, interesting projects with great design.
+- 🔮  I'm driven by a strong sense of purpose and ambition, constantly seeking to make a positive impact.
+- 📚  I have a deep passion for reading, especially light novels that delve into character development.
+- 💪  I maintain a healthy lifestyle by lifting weights and running regularly.
+- 🐶  I absolutely adore dogs and sincerely enjoy spending time with them.
 
-<a href="http://www.github.com/cementix"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cementix&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
+  <a href="http://www.github.com/cementix"><img src="https://leetcode-stats.vercel.app/api?username=cementos&theme=dark" alt="cementos's LeetCode Stats" /></a>
+</div>
 
+<div align="center">
+  <a href="http://www.github.com/cementix"><img src="https://github-readme-stats.vercel.app/api?username=cementix&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cementix's GitHub stats" /></a>
+</div>
 
-🙋 **About me:**
-- INFJ
-- Healthy lifestyle, lifter, runner
-- Delighted by shounen light novels
-- Adore dogs
+<div align="center">
+  <a href="http://www.github.com/cementix"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cementix&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="cementix's GitHub streak stats" /></a>
+</div>
