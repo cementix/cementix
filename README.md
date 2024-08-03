@@ -2,8 +2,8 @@
 
 ## Full Stack Developer (React/Next.js + TypeScript)
 
-<p align="center">
- <img width="400" heigh="100" src="assets/bg.gif" alt="desktop"/>
+<p align="start">
+ <img width="800" heigh="100" src="https://i.pinimg.com/originals/ae/c3/70/aec3708aa26fd079ee156c1826f8cf4d.gif" alt="desktop"/>
 </p>
 
 I'm interested in web development, AI technologies, UX/UI design.
