@@ -1,20 +1,19 @@
-# Hi!👋 My name is Bohdan Kondratsky
+# Hi!👋 My name is Bohdan Kondratskyi
 
 ## Full Stack Developer (React/Next.js + TypeScript)
 
 <p align="start">
- <img width="800" heigh="100" src="https://i.pinimg.com/originals/ae/c3/70/aec3708aa26fd079ee156c1826f8cf4d.gif" alt="desktop"/>
+ <img width="800" heigh="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxlbm8yODdpNWY2eGdtejljYjQ4MHhvbXVpcDdzempkdHhzYmhvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0PnVJXUr3I0du1yryL/giphy.webp" alt="desktop"/>
 </p>
 
 I'm interested in web development, AI technologies, UX/UI design.
 
-- 🌍  I'm based in Dnipro, Ukraine.
-- ✉️  You can contact me at [bodakondrackij@gmail.com](mailto:bodakondrackij@gmail.com)
-- 🤝  I'm open to collaborating on commercial, interesting projects with great design.
-- 🔮  I'm driven by a strong sense of purpose and ambition, constantly seeking to make a positive impact.
-- 📚  I have a deep passion for reading, especially light novels that delve into character development.
-- 💪  I maintain a healthy lifestyle by lifting weights and running regularly.
-- 🐶  I absolutely adore dogs and sincerely enjoy spending time with them.
+- 🌑 Location: Dnipro, Ukraine
+- ✉️ Contact: bodakondrackij@gmail.com
+- 🤝 Collaboration: Open to commercial projects with great design
+- 🔮 Drive: Ambitious, seeking to make a positive impact
+- 📚 Passion: Started coding in September 2023, love reading, especially light novels with strong character development
+- 💪 Hobbies: Regularly lift weights and practice boxing
 
 ## Experience
 
