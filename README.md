@@ -3,7 +3,7 @@
 ## Full Stack Developer | React/Next.js + TypeScript Enthusiast
 
 <p align="start">
- <img width="800" heigh="100" src="https://64.media.tumblr.com/57da974cb8b91d5bbf41cfa2a8f0c073/38ae095f2a74b6ae-e0/s640x960/86f14b34a1b566c1cacdb9ca3e3cb66ac5bd2a39.gifv" alt="desktop"/>
+ <img width="600" heigh="100" src="https://64.media.tumblr.com/57da974cb8b91d5bbf41cfa2a8f0c073/38ae095f2a74b6ae-e0/s640x960/86f14b34a1b566c1cacdb9ca3e3cb66ac5bd2a39.gifv" alt="desktop"/>
 </p>
 
 <small>🚀 Driven by a relentless desire to learn and adapt, I believe that with enough time, I can master any technology. Whether it's crafting seamless user interfaces or developing robust backend systems, I'm always up for the challenge. My passion lies in the potential to create solutions that can truly make a difference.</small>
