@@ -16,7 +16,7 @@
 
 <small>🎯 My ultimate goal? To be able to write anything and everything, pushing the boundaries of what’s possible with code.</small>
 
-## Experience
+## Pet Projects
 
 <div align="center">
   <table>
@@ -29,6 +29,15 @@
         </div> 
         <p>A clone of the popular messaging app, implemented with Next.js and TypeScript, supporting real-time messaging, notifications, and media sharing.</p>
         <img src="assets/messenger-clone-screenshot.png" alt="Messenger Clone Screenshot" width="200"/>
+      </td>
+           <td align="center" width="50%">
+        <h3>MERN Food Ordering App - Full Stack Project</h3>
+        <div style="display: flex; gap: 10px;">
+        <p><a href="https://github.com/cementix/mern-food-ordering-app" target="_blank">GitHub Repo</a></p>
+       <p><a href="https://mern-food-ordering-app-frontend-4cv5.onrender.com/" target="_blank">Render Deployment</a></p>
+        </div> 
+        <p>A food ordering app built with the MERN stack (MongoDB, Express.js, React, Node.js). The app integrates Stripe for seamless payment processing, allowing users to place orders, track them in real-time, and make secure payments.</p>
+        <img src="https://i.ibb.co/b3W2NBr/image.png" alt="MERN Food Ordering App Screenshot" width="200"/>
       </td>
     </tr>
   </table>
