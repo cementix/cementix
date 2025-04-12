@@ -2,19 +2,14 @@
 
 ## Full Stack Developer | React/Next.js + TypeScript Enthusiast
 
-<p align="start">
- <img width="600" heigh="100" src="https://64.media.tumblr.com/57da974cb8b91d5bbf41cfa2a8f0c073/38ae095f2a74b6ae-e0/s640x960/86f14b34a1b566c1cacdb9ca3e3cb66ac5bd2a39.gifv" alt="desktop"/>
-</p>
+<p align="start"> <img width="600" heigh="100" src="https://64.media.tumblr.com/57da974cb8b91d5bbf41cfa2a8f0c073/38ae095f2a74b6ae-e0/s640x960/86f14b34a1b566c1cacdb9ca3e3cb66ac5bd2a39.gifv" alt="desktop"/> </p>
+<small>💻 I’m a developer based in Wrocław, Poland. I focus on building scalable full stack applications using React, Next.js, and TypeScript. Started coding in September 2023. I have a year of commercial experience and hands-on work on client dashboards and side projects.</small>
 
-<small>🚀 Driven by a relentless desire to learn and adapt, I believe that with enough time, I can master any technology. Whether it's crafting seamless user interfaces or developing robust backend systems, I'm always up for the challenge. My passion lies in the potential to create solutions that can truly make a difference.</small>
+<br />
 
-<small>💻 I started my coding journey in September 2023 and have been pushing my limits ever since. With 4 months of commercial experience, I've worked on a client management dashboard using Next.js, gaining valuable insights and skills. I’ve also developed a Messenger clone with Next.js + TypeScript and a MERN-based food ordering app.</small>
+<small>🧠 I consistently improve my skills and enjoy working with clean UI, efficient backend logic, and modern tooling.</small>
 
-<small>🥊 Outside of coding, I regularly lift weights and practice boxing, which helps me maintain focus and discipline. I’m also an avid reader, with a particular love for light novels that delve into deep character development.</small>
-
-<small>🌍 Based in Dnipro, Ukraine, I'm open to commercial projects that emphasize quality design and functionality.</small>
-
-<small>🎯 My ultimate goal? To be able to write anything and everything, pushing the boundaries of what’s possible with code.</small>
+<small>🏋️ Outside of work, I train regularly and read light novels.</small>
 
 ## Pet Projects
 
