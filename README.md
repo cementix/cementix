@@ -2,7 +2,7 @@
 
 ## Full Stack Developer | React/Next.js + TypeScript Enthusiast
 
-<p align="start"> <img width="600" heigh="100" src="https://64.media.tumblr.com/57da974cb8b91d5bbf41cfa2a8f0c073/38ae095f2a74b6ae-e0/s640x960/86f14b34a1b566c1cacdb9ca3e3cb66ac5bd2a39.gifv" alt="desktop"/> </p>
+<p align="start"> <img width="600" heigh="150" src="https://images.steamusercontent.com/ugc/100600042796651055/FFFF17D5ADA39801B21123EA0D132104A1117B08/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="desktop"/> </p>
 
 <p><small>💻 I’m a developer based in Wrocław, Poland. I focus on building scalable full stack applications using React, Next.js, and TypeScript. Started coding in September 2023. I have a year of commercial experience and hands-on work on client dashboards and side projects.</small></p>
 
