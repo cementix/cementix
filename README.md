@@ -4,12 +4,9 @@
 
 <p align="start"> <img width="600" heigh="150" src="https://images.steamusercontent.com/ugc/100600042796651055/FFFF17D5ADA39801B21123EA0D132104A1117B08/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="desktop"/> </p>
 
-<p><small>💻 I’m a developer based in Wrocław, Poland. I focus on building scalable full stack applications using React, Next.js, and TypeScript. Started coding in September 2023. I have a year of commercial experience and hands-on work on client dashboards and side projects.</small></p>
+<p><small>I’m a full stack developer based in Wrocław, Poland. I work with React, Next.js, TypeScript, and Python. I have commercial experience building client dashboards, clean UIs, and scalable backends. </small></p>
 
-
-<small>🧠 I consistently improve my skills and enjoy working with clean UI, efficient backend logic, and modern tooling.</small>
-
-<small>🏋️ Outside of work, I train regularly and read light novels.</small>
+<small>I also script in Lua and build interactive systems, animations, and gameplay logic in Roblox.</small>
 
 ## Pet Projects
 
