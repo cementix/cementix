@@ -2,7 +2,8 @@
 
 ## Full Stack Developer | React/Next.js + TypeScript
 
-<p align="start"> <img width="600" heigh="200" src="https://media1.tenor.com/m/-lM-0XXO3tAAAAAd/akumaqqe.gif" alt="desktop"/> </p>
+<p align="start"> <img width="600" heigh="150" src="https://pouch.jumpshare.com/preview/EslMOnUWAjuKv76Lwj5xctN9uZR6cKokO2P6nSrTm3hmnNPunnvnXqLAvZwceKyUDDJsQ5hNngdxU1g1E1dvNliD4yiAnQecjecs3dB_RBc" alt="desktop"/> </p>
+
 
 <p><small>I’m a full stack developer based in Wrocław, Poland. I work with React, Next.js, TypeScript, and Python. I have commercial experience building client dashboards, clean UIs, and scalable backends. </small></p>
 
