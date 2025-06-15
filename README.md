@@ -1,6 +1,6 @@
 # Hi!👋 My name is Bohdan Kondratskyi
 
-## Full Stack Developer | React/Next.js + TypeScript
+## Full Stack Developer | React/Next.js + TypeScript | Roblox Scripter (Lua), Builder & Animator (Blender)
 
 <p align="start"> <img width="600" heigh="150" src="https://images.steamusercontent.com/ugc/910172100449874847/C570056265A06300418361C2D60F4AB549BDAAC6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="desktop"/> </p>
 
