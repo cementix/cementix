@@ -24,8 +24,10 @@
           <a href="https://github.com/cementix/messenger-clone" target="_blank">repository</a> · 
           <a href="https://messenger-clone-two-weld.vercel.app/" target="_blank">live deployment</a>
         </div>
+        <div>
         <p>a real-time chat built with next.js and typescript.  
         features authentication, notifications, and live message sync via pusher.</p>
+        </div>
         <img src="assets/messenger-clone-screenshot.png" alt="messenger clone" width="220"/>
       </td>
       <td align="center" width="50%">
