@@ -1,17 +1,18 @@
-# Hi!👋 My name is Bohdan Kondratskyi
+# hi! ♡
 
-## Full Stack Developer | React/Next.js + TypeScript | Roblox Scripter (Lua), Builder & Animator (Blender)
+## ⛧°.⋆༺ full stack developer · react | next.js | typescript · roblox scripter (lua), builder & animator (blender) ༻⋆.°⛧
 
 <p align="start">
   <img src="/assets/anti-mage.gif" alt="anti-mage" width="150" style="margin-right:10px;"/>
   <img src="/assets/phantom-lancer.gif" alt="phantom-lancer" width="150"/>
 </p>
 
-<p><small>I’m a full stack developer based in Wrocław, Poland. I work with React, Next.js, TypeScript, and Python. I have commercial experience building client dashboards, clean UIs, and scalable backends. </small></p>
+<p><small>⛧ i’m a full stack developer based in wrocław, poland. i work with react, next.js, typescript, and python — focused on clean ui, precise logic, and scalable structure. ⛧</small></p>
 
-<small>I also script in Lua and build interactive systems, animations, and gameplay logic in Roblox.</small>
+<p><small>⋆ i also script in lua and craft interactive systems, animation, and gameplay flow inside roblox. ⋆</small></p>
 
-## Pet Projects
+
+## ✃𓄧꒷꒦ my main projects ꒦꒷𓄧✃
 
 <div align="center">
   <table>
@@ -38,37 +39,41 @@
   </table>
 </div>
 
-## Skills
-
-<p>
-  <h3 align="center">Langs</h3>
-  <p align="center">
-   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css" />
-  </p>
-  <h3 align="center">Tools</h3>
-  <p align="center">
-   <img src="https://skillicons.dev/icons?i=materialui,tailwind,postgres,prisma,mongodb,figma,git,yarn,npm,gcp,github" />
-  </p>
-  <h3 align="center">Software</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,postman" />
-  </p>
-  <br>
-</p>
-
-## Stats
+## ⛧°.⋆༺ skills & stats ༻⋆.°⛧
 
 <div align="center">
-  <a href="https://www.codewars.com/users/cementix">
-    <img src="https://www.codewars.com/users/cementix/badges/large" alt="Codewars Badge" width="75%" />
-  </a>
+  <table>
+    <tr>
+      <td width="55%" valign="top" align="left">
+        <h3>core</h3>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,lua" width="100%" />
+        <br/><br/>
+        <h3>tools</h3>
+        <img src="https://skillicons.dev/icons?i=tailwind,postgres,prisma,mongodb,figma,git,github,yarn,npm,gcp" width="100%" />
+        <br/><br/>
+        <h3>software</h3>
+        <img src="https://skillicons.dev/icons?i=vscode,postman,robloxstudio,notion,blender" width="100%" />
+      </td>
+      <td width="45%" valign="top" align="center">
+        <a href="http://www.github.com/cementix">
+          <img src="https://github-readme-stats.vercel.app/api?username=cementix&show_icons=true&count_private=true&title_color=3ba7ff&text_color=ffffff&icon_color=3ba7ff&bg_color=0b0b0b&hide_border=true" width="100%" />
+        </a>
+        <br/><br/>
+        <a href="http://www.github.com/cementix">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=cementix&stroke=ffffff&background=0b0b0b&ring=3ba7ff&fire=3ba7ff&currStreakNum=ffffff&currStreakLabel=3ba7ff&sideNums=ffffff&sideLabels=3ba7ff&dates=3ba7ff&hide_border=true" width="100%" />
+        </a>
+        <br/><br/>
+        <a href="https://leetcode.com/u/cementos/">
+          <img src="https://leetcode-stats.vercel.app/api?username=cementos&theme=dark&border=0&bgColor=0b0b0b&textColor=ffffff&iconColor=3ba7ff" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <a href="http://www.github.com/cementix"><img src="https://github-readme-stats.vercel.app/api?username=cementix&include_all_commits=true&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cementix's GitHub stats" width="33.75%" /></a>
-  <a href="http://www.github.com/cementix"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cementix&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="cementix's GitHub streak stats" width="37.5%" /></a>
-</div>
 
-<div align="center">
-   <a href="https://leetcode.com/u/cementos/"><img src="https://leetcode-stats.vercel.app/api?username=cementos&theme=dark" alt="cementos's LeetCode Stats" width="52.5%" /></a>
-</div>
+
+
+
+
+
