@@ -2,8 +2,7 @@
 
 ## Full Stack Developer | React/Next.js + TypeScript | Roblox Scripter (Lua), Builder & Animator (Blender)
 
-<p align="start"> <img width="600" heigh="150" src="https://media1.tenor.com/m/qQLEwWLJd6gAAAAd/anti-mage.gif" alt="desktop"/> </p>
-
+<p align="start"> <img src="/assets/anti-mage.gif" alt="desktop"/> </p>
 
 <p><small>I’m a full stack developer based in Wrocław, Poland. I work with React, Next.js, TypeScript, and Python. I have commercial experience building client dashboards, clean UIs, and scalable backends. </small></p>
 
@@ -70,5 +69,3 @@
 <div align="center">
    <a href="https://leetcode.com/u/cementos/"><img src="https://leetcode-stats.vercel.app/api?username=cementos&theme=dark" alt="cementos's LeetCode Stats" width="52.5%" /></a>
 </div>
-
-
