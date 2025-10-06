@@ -19,7 +19,7 @@
   <table>
 <tr>
       <td align="center" width="50%">
-        <h3>messenger clone</h3>
+        <h3>⛧ messenger clone</h3>
         <div>
           <a href="https://github.com/cementix/messenger-clone" target="_blank">repository</a> · 
           <a href="https://messenger-clone-two-weld.vercel.app/" target="_blank">live deployment</a>
@@ -29,7 +29,7 @@
         <img src="assets/messenger-clone-screenshot.png" alt="messenger clone" width="220"/>
       </td>
       <td align="center" width="50%">
-        <h3>mern food ordering app</h3>
+        <h3>⛧ mern food ordering app</h3>
         <div>
           <a href="https://github.com/cementix/mern-food-ordering-app" target="_blank">repository</a> · 
           <a href="https://mern-food-ordering-app-frontend-4cv5.onrender.com/" target="_blank">live deployment</a>
@@ -41,16 +41,16 @@
     </tr>
 <tr>
       <td align="center" width="50%">
-        <h3>python character creator</h3>
+        <h3>⛧ python character creator</h3>
         <div>
           <a href="https://github.com/cementix/py_rpg_char_creator" target="_blank">repository</a>
         </div>
         <p>minimal python template focused on oop structure and json data export.
 built for experimenting with class design, inheritance and ui logic.</p>
-        <img src="assets/rpg-char.png" alt="python rpg char creator" width="220"/>
+        <img src="assets/rpg-char.jpg" alt="python rpg char creator" width="220"/>
       </td>
       <td align="center" width="50%">
-        <h3>bem-method landing</h3>
+        <h3>⛧ bem-method landing</h3>
         <div>
           <a href="https://github.com/cementix/layout_landing-page" target="_blank">repository</a> · 
           <a href="https://cementix.github.io/layout_landing-page/" target="_blank">live deployment</a>
