@@ -17,24 +17,47 @@
 
 <div align="center">
   <table>
-    <tr>
+<tr>
       <td align="center" width="50%">
-        <h3>Messenger Clone - Full Stack Project</h3>
-        <div style="display: flex; gap: 10px;">
-        <p><a href="https://github.com/cementix/messenger-clone" target="_blank">GitHub Repo</a></p>
-       <p><a href="https://messenger-clone-two-weld.vercel.app/" target="_blank">Vercel Deployment</a></p>
-        </div> 
-        <p>A clone of the popular messaging app, implemented with Next.js and TypeScript, supporting real-time messaging, notifications, and media sharing.</p>
-        <img src="assets/messenger-clone-screenshot.png" alt="Messenger Clone Screenshot" width="200"/>
+        <h3>messenger clone</h3>
+        <div>
+          <a href="https://github.com/cementix/messenger-clone" target="_blank">repository</a> · 
+          <a href="https://messenger-clone-two-weld.vercel.app/" target="_blank">live deployment</a>
+        </div>
+        <p>a real-time chat built with next.js and typescript.  
+        features authentication, notifications, and live message sync via pusher.</p>
+        <img src="assets/messenger-clone-screenshot.png" alt="messenger clone" width="220"/>
       </td>
-           <td align="center" width="50%">
-        <h3>MERN Food Ordering App - Full Stack Project</h3>
-        <div style="display: flex; gap: 10px;">
-        <p><a href="https://github.com/cementix/mern-food-ordering-app" target="_blank">GitHub Repo</a></p>
-       <p><a href="https://mern-food-ordering-app-frontend-4cv5.onrender.com/" target="_blank">Render Deployment</a></p>
-        </div> 
-        <p>A food ordering app built with the MERN stack (MongoDB, Express.js, React, Node.js). The app integrates Stripe for seamless payment processing, allowing users to place orders, track them in real-time, and make secure payments.</p>
-        <img src="https://i.ibb.co/b3W2NBr/image.png" alt="MERN Food Ordering App Screenshot" width="200"/>
+      <td align="center" width="50%">
+        <h3>mern food ordering app</h3>
+        <div>
+          <a href="https://github.com/cementix/mern-food-ordering-app" target="_blank">repository</a> · 
+          <a href="https://mern-food-ordering-app-frontend-4cv5.onrender.com/" target="_blank">live deployment</a>
+        </div>
+        <p>full-stack food ordering system built with the mern stack and stripe.  
+        jwt auth, live order tracking and clean ui.</p>
+        <img src="https://i.ibb.co/b3W2NBr/image.png" alt="food app" width="220"/>
+      </td>
+    </tr>
+<tr>
+      <td align="center" width="50%">
+        <h3>python character creator</h3>
+        <div>
+          <a href="https://github.com/cementix/py_rpg_char_creator" target="_blank">repository</a>
+        </div>
+        <p>minimal python template focused on oop structure and json data export.
+built for experimenting with class design, inheritance and ui logic.</p>
+        <img src="assets/rpg-char.png" alt="python rpg char creator" width="220"/>
+      </td>
+      <td align="center" width="50%">
+        <h3>bem-method landing</h3>
+        <div>
+          <a href="https://github.com/cementix/layout_landing-page" target="_blank">repository</a> · 
+          <a href="https://cementix.github.io/layout_landing-page/" target="_blank">live deployment</a>
+        </div>
+        <p>responsive html/scss landing built with the bem methodology.
+simple, modular, and easy to extend for multi-section layouts.</p>
+        <img src="assets/bem-landing.jpg" alt="bem landing" width="220"/>
       </td>
     </tr>
   </table>
