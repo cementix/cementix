@@ -3,7 +3,8 @@
 ## ⛧°.⋆༺ full stack developer · react | next.js | typescript · roblox scripter (lua), builder & animator (blender) ༻⋆.°⛧
 
 <p align="start">
-  <img src="/assets/anti-mage.gif" alt="anti-mage" width="300" style="margin-right:50px;"/>
+  <img src="/assets/anti-mage.gif" alt="anti-mage" width="300"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="/assets/phantom-lancer.gif" alt="phantom-lancer" width="300"/>
 </p>
 
