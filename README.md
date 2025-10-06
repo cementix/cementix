@@ -31,18 +31,6 @@
         <img src="assets/messenger-clone-screenshot.png" alt="messenger clone" width="220"/>
       </td>
       <td align="center" width="50%">
-        <h3>⛧ mern food ordering app</h3>
-        <div>
-          <a href="https://github.com/cementix/mern-food-ordering-app" target="_blank">repository</a> · 
-          <a href="https://mern-food-ordering-app-frontend-4cv5.onrender.com/" target="_blank">live deployment</a>
-        </div>
-        <p>full-stack food ordering system built with the mern stack and stripe.  
-        jwt auth, live order tracking and clean ui.</p>
-        <img src="https://i.ibb.co/b3W2NBr/image.png" alt="food app" width="220"/>
-      </td>
-    </tr>
-<tr>
-      <td align="center" width="50%">
         <h3>⛧ python character creator</h3>
         <div>
           <a href="https://github.com/cementix/py_rpg_char_creator" target="_blank">repository</a>
@@ -51,6 +39,8 @@
 built for experimenting with class design, inheritance and ui logic.</p>
         <img src="assets/rpg-char.jpg" alt="python rpg char creator" width="220"/>
       </td>
+    </tr>
+<tr>
       <td align="center" width="50%">
         <h3>⛧ bem-method landing</h3>
         <div>
@@ -60,6 +50,16 @@ built for experimenting with class design, inheritance and ui logic.</p>
         <p>responsive html/scss landing built with the bem methodology.
 simple, modular, and easy to extend for multi-section layouts.</p>
         <img src="assets/bem-landing.jpg" alt="bem landing" width="220"/>
+      </td>
+    <td align="center" width="50%">
+        <h3>⛧ mern food ordering app</h3>
+        <div>
+          <a href="https://github.com/cementix/mern-food-ordering-app" target="_blank">repository</a> · 
+          <a href="https://mern-food-ordering-app-frontend-4cv5.onrender.com/" target="_blank">live deployment</a>
+        </div>
+        <p>full-stack food ordering system built with the mern stack and stripe.  
+        jwt auth, live order tracking and clean ui.</p>
+        <img src="https://i.ibb.co/b3W2NBr/image.png" alt="food app" width="220"/>
       </td>
     </tr>
   </table>
