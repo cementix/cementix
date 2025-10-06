@@ -9,7 +9,7 @@
 <p><small>⋆ i also script in lua and craft interactive systems, animation, and gameplay flow inside roblox. ⋆</small></p>
 
 
-## Pet Projects
+## ✃𓄧꒷꒦ my main projects ꒦꒷𓄧✃
 
 <div align="center">
   <table>
@@ -53,15 +53,15 @@
       </td>
       <td width="45%" valign="top" align="center">
         <a href="http://www.github.com/cementix">
-          <img src="https://github-readme-stats.vercel.app/api?username=cementix&show_icons=true&count_private=true&title_color=8a8a8a&text_color=bfbfbf&icon_color=777777&bg_color=0b0b0b&hide_border=true" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=cementix&show_icons=true&count_private=true&title_color=3ba7ff&text_color=ffffff&icon_color=3ba7ff&bg_color=0b0b0b&hide_border=true" width="100%" />
         </a>
         <br/><br/>
         <a href="http://www.github.com/cementix">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=cementix&stroke=aaaaaa&background=0b0b0b&ring=6b6b6b&fire=888888&currStreakNum=bfbfbf&currStreakLabel=8a8a8a&sideNums=bfbfbf&sideLabels=999999&dates=666666&hide_border=true" width="100%" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=cementix&stroke=ffffff&background=0b0b0b&ring=3ba7ff&fire=3ba7ff&currStreakNum=ffffff&currStreakLabel=3ba7ff&sideNums=ffffff&sideLabels=3ba7ff&dates=3ba7ff&hide_border=true" width="100%" />
         </a>
         <br/><br/>
         <a href="https://leetcode.com/u/cementos/">
-          <img src="https://leetcode-stats.vercel.app/api?username=cementos&theme=dark" width="100%" />
+          <img src="https://leetcode-stats.vercel.app/api?username=cementos&theme=dark&border=0&bgColor=0b0b0b&textColor=ffffff&iconColor=3ba7ff" width="100%" />
         </a>
       </td>
     </tr>
