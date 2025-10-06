@@ -2,7 +2,7 @@
 
 ## Full Stack Developer | React/Next.js + TypeScript | Roblox Scripter (Lua), Builder & Animator (Blender)
 
-<p align="start"> <img width="600" heigh="150" src="https://images.steamusercontent.com/ugc/910172100449874847/C570056265A06300418361C2D60F4AB549BDAAC6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="desktop"/> </p>
+<p align="start"> <img width="600" heigh="150" src="https://media1.tenor.com/m/qQLEwWLJd6gAAAAd/anti-mage.gif" alt="desktop"/> </p>
 
 
 <p><small>I’m a full stack developer based in Wrocław, Poland. I work with React, Next.js, TypeScript, and Python. I have commercial experience building client dashboards, clean UIs, and scalable backends. </small></p>
