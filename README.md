@@ -36,37 +36,41 @@
   </table>
 </div>
 
-## Skills
-
-<p>
-  <h3 align="center">Langs</h3>
-  <p align="center">
-   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css" />
-  </p>
-  <h3 align="center">Tools</h3>
-  <p align="center">
-   <img src="https://skillicons.dev/icons?i=materialui,tailwind,postgres,prisma,mongodb,figma,git,yarn,npm,gcp,github" />
-  </p>
-  <h3 align="center">Software</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,postman" />
-  </p>
-  <br>
-</p>
-
-## Stats
+## ⛧°.⋆༺ skills & stats ༻⋆.°⛧
 
 <div align="center">
-  <a href="https://www.codewars.com/users/cementix">
-    <img src="https://www.codewars.com/users/cementix/badges/large" alt="Codewars Badge" width="75%" />
-  </a>
+  <table>
+    <tr>
+      <td width="55%" valign="top" align="left">
+        <h3>core</h3>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,lua" width="100%" />
+        <br/><br/>
+        <h3>tools</h3>
+        <img src="https://skillicons.dev/icons?i=tailwind,postgres,prisma,mongodb,figma,git,github,yarn,npm,gcp" width="100%" />
+        <br/><br/>
+        <h3>software</h3>
+        <img src="https://skillicons.dev/icons?i=vscode,postman,robloxstudio,notion,blender" width="100%" />
+      </td>
+      <td width="45%" valign="top" align="center">
+        <a href="http://www.github.com/cementix">
+          <img src="https://github-readme-stats.vercel.app/api?username=cementix&show_icons=true&count_private=true&title_color=8a8a8a&text_color=bfbfbf&icon_color=777777&bg_color=0b0b0b&hide_border=true" width="100%" />
+        </a>
+        <br/><br/>
+        <a href="http://www.github.com/cementix">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=cementix&stroke=aaaaaa&background=0b0b0b&ring=6b6b6b&fire=888888&currStreakNum=bfbfbf&currStreakLabel=8a8a8a&sideNums=bfbfbf&sideLabels=999999&dates=666666&hide_border=true" width="100%" />
+        </a>
+        <br/><br/>
+        <a href="https://leetcode.com/u/cementos/">
+          <img src="https://leetcode-stats.vercel.app/api?username=cementos&theme=dark" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <a href="http://www.github.com/cementix"><img src="https://github-readme-stats.vercel.app/api?username=cementix&include_all_commits=true&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cementix's GitHub stats" width="33.75%" /></a>
-  <a href="http://www.github.com/cementix"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cementix&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="cementix's GitHub streak stats" width="37.5%" /></a>
-</div>
 
-<div align="center">
-   <a href="https://leetcode.com/u/cementos/"><img src="https://leetcode-stats.vercel.app/api?username=cementos&theme=dark" alt="cementos's LeetCode Stats" width="52.5%" /></a>
-</div>
+
+
+
+
+
