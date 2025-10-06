@@ -1,12 +1,13 @@
-# Hi!👋 My name is Bohdan Kondratskyi
+# hi! ♡
 
-## Full Stack Developer | React/Next.js + TypeScript | Roblox Scripter (Lua), Builder & Animator (Blender)
+## ⛧°.⋆༺ full stack developer · react | next.js | typescript · roblox scripter (lua), builder & animator (blender) ༻⋆.°⛧
 
 <p align="start"> <img src="/assets/anti-mage.gif" alt="desktop"/> </p>
 
-<p><small>I’m a full stack developer based in Wrocław, Poland. I work with React, Next.js, TypeScript, and Python. I have commercial experience building client dashboards, clean UIs, and scalable backends. </small></p>
+<p><small>⛧ i’m a full stack developer based in wrocław, poland. i work with react, next.js, typescript, and python — focused on clean ui, precise logic, and scalable structure. ⛧</small></p>
 
-<small>I also script in Lua and build interactive systems, animations, and gameplay logic in Roblox.</small>
+<p><small>⋆ i also script in lua and craft interactive systems, animation, and gameplay flow inside roblox. ⋆</small></p>
+
 
 ## Pet Projects
 
