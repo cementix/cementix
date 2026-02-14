@@ -5,7 +5,6 @@
 <p align="start">
   <img src="/assets/anti-mage.gif" alt="anti-mage" width="300"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/phantom-lancer.gif" alt="phantom-lancer" width="300"/>
 </p>
 
 <p><small>⛧ i’m a full stack developer based in wrocław, poland. i work with react, next.js, typescript, and python — focused on clean ui, precise logic, and scalable structure. ⛧</small></p>
