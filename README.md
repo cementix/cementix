@@ -1,24 +1,24 @@
 # hi! ♡
 
-## ⛧°.⋆༺ full stack developer · react | next.js | typescript · roblox scripter (lua), builder & animator (blender) ༻⋆.°⛧
+## full stack developer · react | next.js | typescript · roblox scripter (lua), builder & animator (blender)
 
 <p align="start">
   <img src="/assets/anti-mage.gif" alt="anti-mage" width="300"/>
   &nbsp;&nbsp;&nbsp;
 </p>
 
-<p><small>⛧ i’m a full stack developer based in wrocław, poland. i work with react, next.js, typescript, and python — focused on clean ui, precise logic, and scalable structure. ⛧</small></p>
+<p><small>i’m a full stack developer based in wrocław, poland. i work with react, next.js, typescript, and python — focused on clean ui, precise logic, and scalable structure.</small></p>
 
-<p><small>⋆ i also script in lua and craft interactive systems, animation, and gameplay flow inside roblox. ⋆</small></p>
+<p><small>i also script in lua and craft interactive systems, animation, and gameplay flow inside roblox.</small></p>
 
 
-## ✃𓄧꒷꒦ my main projects ꒦꒷𓄧✃
+## my main projects ♡
 
 <div align="center">
   <table>
 <tr>
       <td align="center" width="50%">
-        <h3>⛧ messenger clone</h3>
+        <h3>♡ messenger clone</h3>
         <div>
           <a href="https://github.com/cementix/messenger-clone" target="_blank">repository</a> · 
           <a href="https://messenger-clone-two-weld.vercel.app/" target="_blank">live deployment</a>
@@ -30,7 +30,7 @@
         <img src="assets/messenger-clone-screenshot.png" alt="messenger clone" width="220"/>
       </td>
       <td align="center" width="50%">
-        <h3>⛧ python character creator</h3>
+        <h3>♡ python character creator</h3>
         <div>
           <a href="https://github.com/cementix/py_rpg_char_creator" target="_blank">repository</a>
         </div>
@@ -41,7 +41,7 @@ built for experimenting with class design, inheritance and ui logic.</p>
     </tr>
 <tr>
       <td align="center" width="50%">
-        <h3>⛧ bem-method landing</h3>
+        <h3>♡ bem-method landing</h3>
         <div>
           <a href="https://github.com/cementix/layout_landing-page" target="_blank">repository</a> · 
           <a href="https://cementix.github.io/layout_landing-page/" target="_blank">live deployment</a>
@@ -51,7 +51,7 @@ simple, modular, and easy to extend for multi-section layouts.</p>
         <img src="assets/bem-landing.jpg" alt="bem landing" width="220"/>
       </td>
     <td align="center" width="50%">
-        <h3>⛧ mern food ordering app</h3>
+        <h3>♡ mern food ordering app</h3>
         <div>
           <a href="https://github.com/cementix/mern-food-ordering-app" target="_blank">repository</a> · 
           <a href="https://mern-food-ordering-app-frontend-4cv5.onrender.com/" target="_blank">live deployment</a>
@@ -64,7 +64,7 @@ simple, modular, and easy to extend for multi-section layouts.</p>
   </table>
 </div>
 
-## ⛧°.⋆༺ skills & stats ༻⋆.°⛧
+## skills & stats ♡
 
 <div align="center">
   <table>
@@ -95,10 +95,3 @@ simple, modular, and easy to extend for multi-section layouts.</p>
     </tr>
   </table>
 </div>
-
-
-
-
-
-
-
