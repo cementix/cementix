@@ -4,23 +4,29 @@ Full-stack developer based in Wrocław, Poland. I build web apps with React, Nex
 
 [Portfolio](https://cementixx-macos-portfolio.vercel.app/) · [CV](https://cementixx-macos-portfolio.vercel.app/files/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/bohdanCementix/)
 
-## Featured projects
+## ✦ Featured projects
 
 ### Listiq
 
-A personal media library for tracking what you watch, read, and play. Search a catalog of movies, anime, manga, games, and books, save titles to custom lists, and discover what to pick up next.
+A personal media library for tracking what you watch, read, and play. Search across movies, anime, manga, games, and books, save titles to custom lists, and discover what to pick up next.
 
-I built catalog imports from multiple providers, PostgreSQL search, and a moderation flow for user-submitted titles. GitHub Actions checks migrations on a fresh database and runs unit and integration tests.
+Built with Next.js, TypeScript, PostgreSQL, and Prisma. Includes catalog imports from multiple providers, moderation for user submissions, and CI that runs migrations and tests against PostgreSQL.
 
-**Stack:** Next.js, TypeScript, PostgreSQL, Prisma  
-[Open Listiq](https://listiq-topaz.vercel.app/)
+[Open Listiq ↗](https://listiq-topaz.vercel.app/)
+
+<!-- After uploading the video, append: · [Watch 1-minute demo](YOUR_VIDEO_URL) -->
+
+![Listiq dashboard showing the media catalog and discovery picks](./assets/listiq-dashboard.jpg)
 
 ### macOS Portfolio
 
-An interactive portfolio styled like a macOS desktop. It uses a Dock and draggable windows to explore my projects, open my CV, and find my contact details.
+An interactive portfolio styled like a macOS desktop. Open projects in Finder, drag windows around, or jump to my CV and contact details from the desktop.
 
-**Stack:** React, Vite, GSAP, Zustand  
-[Open portfolio](https://cementixx-macos-portfolio.vercel.app/) · [Source code](https://github.com/cementix/cementixx_macos_portfolio)
+Built with React, Vite, GSAP, and Zustand.
+
+[Open portfolio ↗](https://cementixx-macos-portfolio.vercel.app/) · [Source code](https://github.com/cementix/cementixx_macos_portfolio)
+
+![macOS portfolio with the Finder window open and the Dock visible](./assets/macos-portfolio.jpg)
 
 ## Other projects
 
