@@ -1,97 +1,37 @@
-# hi! ♡
+# hi! ♡ i'm Bohdan
 
-## full stack developer · react | next.js | typescript · roblox scripter (lua), builder & animator (blender)
+Full-stack developer based in Wrocław, Poland. I build web apps with React, Next.js, and TypeScript. I’m open to frontend and full-stack roles.
 
-<p align="start">
-  <img src="/assets/anti-mage.gif" alt="anti-mage" width="300"/>
-  &nbsp;&nbsp;&nbsp;
-</p>
+[Portfolio](https://cementixx-macos-portfolio.vercel.app/) · [CV](https://cementixx-macos-portfolio.vercel.app/files/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/bohdanCementix/)
 
-<p><small>i’m a full stack developer based in wrocław, poland. i work with react, next.js, typescript, and python — focused on clean ui, precise logic, and scalable structure.</small></p>
+## Featured projects
 
-<p><small>i also script in lua and craft interactive systems, animation, and gameplay flow inside roblox.</small></p>
+### Listiq
 
+A personal media library for tracking what you watch, read, and play. Search a catalog of movies, anime, manga, games, and books, save titles to custom lists, and discover what to pick up next.
 
-## my main projects ♡
+I built catalog imports from multiple providers, PostgreSQL search, and a moderation flow for user-submitted titles. GitHub Actions checks migrations on a fresh database and runs unit and integration tests.
 
-<div align="center">
-  <table>
-<tr>
-      <td align="center" width="50%">
-        <h3>♡ messenger clone</h3>
-        <div>
-          <a href="https://github.com/cementix/messenger-clone" target="_blank">repository</a> · 
-          <a href="https://messenger-clone-two-weld.vercel.app/" target="_blank">live deployment</a>
-        </div>
-        <div>
-        <p>a real-time chat built with next.js and typescript.  
-        features authentication, notifications, and live message sync via pusher.</p>
-        </div>
-        <img src="assets/messenger-clone-screenshot.png" alt="messenger clone" width="220"/>
-      </td>
-      <td align="center" width="50%">
-        <h3>♡ python character creator</h3>
-        <div>
-          <a href="https://github.com/cementix/py_rpg_char_creator" target="_blank">repository</a>
-        </div>
-        <p>minimal python template focused on oop structure and json data export.
-built for experimenting with class design, inheritance and ui logic.</p>
-        <img src="assets/rpg-char.jpg" alt="python rpg char creator" width="220"/>
-      </td>
-    </tr>
-<tr>
-      <td align="center" width="50%">
-        <h3>♡ bem-method landing</h3>
-        <div>
-          <a href="https://github.com/cementix/layout_landing-page" target="_blank">repository</a> · 
-          <a href="https://cementix.github.io/layout_landing-page/" target="_blank">live deployment</a>
-        </div>
-        <p>responsive html/scss landing built with the bem methodology.
-simple, modular, and easy to extend for multi-section layouts.</p>
-        <img src="assets/bem-landing.jpg" alt="bem landing" width="220"/>
-      </td>
-    <td align="center" width="50%">
-        <h3>♡ mern food ordering app</h3>
-        <div>
-          <a href="https://github.com/cementix/mern-food-ordering-app" target="_blank">repository</a> · 
-          <a href="https://mern-food-ordering-app-frontend-4cv5.onrender.com/" target="_blank">live deployment</a>
-        </div>
-        <p>full-stack food ordering system built with the mern stack and stripe.  
-        jwt auth, live order tracking and clean ui.</p>
-        <img src="https://i.ibb.co/b3W2NBr/image.png" alt="food app" width="220"/>
-      </td>
-    </tr>
-  </table>
-</div>
+**Stack:** Next.js, TypeScript, PostgreSQL, Prisma  
+[Open Listiq](https://listiq-topaz.vercel.app/)
 
-## skills & stats ♡
+### macOS Portfolio
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="55%" valign="top" align="left">
-        <h3>core</h3>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,lua" width="100%" />
-        <br/><br/>
-        <h3>tools</h3>
-        <img src="https://skillicons.dev/icons?i=tailwind,postgres,prisma,mongodb,figma,git,github,yarn,npm,gcp" width="100%" />
-        <br/><br/>
-        <h3>software</h3>
-        <img src="https://skillicons.dev/icons?i=vscode,postman,robloxstudio,notion,blender" width="100%" />
-      </td>
-      <td width="45%" valign="top" align="center">
-        <a href="http://www.github.com/cementix">
-          <img src="https://github-readme-stats.vercel.app/api?username=cementix&show_icons=true&count_private=true&title_color=3ba7ff&text_color=ffffff&icon_color=3ba7ff&bg_color=0b0b0b&hide_border=true" width="100%" />
-        </a>
-        <br/><br/>
-        <a href="http://www.github.com/cementix">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=cementix&stroke=ffffff&background=0b0b0b&ring=3ba7ff&fire=3ba7ff&currStreakNum=ffffff&currStreakLabel=3ba7ff&sideNums=ffffff&sideLabels=3ba7ff&dates=3ba7ff&hide_border=true" width="100%" />
-        </a>
-        <br/><br/>
-        <a href="https://leetcode.com/u/cementos/">
-          <img src="https://leetcode-stats.vercel.app/api?username=cementos&theme=dark&border=0&bgColor=0b0b0b&textColor=ffffff&iconColor=3ba7ff" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+An interactive portfolio styled like a macOS desktop. It uses a Dock and draggable windows to explore my projects, open my CV, and find my contact details.
+
+**Stack:** React, Vite, GSAP, Zustand  
+[Open portfolio](https://cementixx-macos-portfolio.vercel.app/) · [Source code](https://github.com/cementix/cementixx_macos_portfolio)
+
+## Other projects
+
+- **Issue Tracker** — Create and assign issues, filter by status, and track progress on a dashboard. Next.js, TypeScript, Prisma, PostgreSQL. [Code](https://github.com/cementix/issue-tracker) · [Demo](https://issue-tracker-rose-psi.vercel.app/)
+- **Messenger Clone** — Private and group chats with real-time messages and read receipts. Next.js, TypeScript, MongoDB, Pusher. [Code](https://github.com/cementix/messenger-clone)
+- **Food Ordering App** — Browse restaurant menus, place orders, and pay through Stripe Checkout. React, Express, MongoDB. [Code](https://github.com/cementix/mern-food-ordering-app) · [Demo](https://mern-food-ordering-app-frontend-4cv5.onrender.com/)
+- **Python RPG Character Creator** — A desktop app for allocating character stats, choosing skills, and exporting characters to JSON. Python, CustomTkinter. [Code](https://github.com/cementix/py_rpg_char_creator)
+- **BEM Landing Page** — A responsive landing page built with HTML, Sass, and BEM. [Code](https://github.com/cementix/layout_landing-page) · [Demo](https://cementix.github.io/layout_landing-page/)
+
+## Tech I work with
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend & data:** Node.js, Express, PostgreSQL, Prisma, MongoDB  
+**On the side:** Python and Roblox projects with Luau and Blender
