@@ -16,7 +16,7 @@ Built with Next.js, TypeScript, PostgreSQL, and Prisma. Includes catalog imports
 
 <!-- After uploading the video, append: · [Watch 1-minute demo](YOUR_VIDEO_URL) -->
 
-![Listiq dashboard showing the media catalog and discovery picks](./assets/listiq-dashboard.jpg)
+<img src="./assets/listiq-dashboard.jpg" alt="Listiq dashboard" width="60%">
 
 ### macOS Portfolio
 
@@ -26,7 +26,7 @@ Built with React, Vite, GSAP, and Zustand.
 
 [Open portfolio ↗](https://cementixx-macos-portfolio.vercel.app/) · [Source code](https://github.com/cementix/cementixx_macos_portfolio)
 
-![macOS portfolio with the Finder window open and the Dock visible](./assets/macos-portfolio.jpg)
+<img src="./assets/macos-portfolio.jpg" alt="macOS portfolio with Finder and Dock" width="60%">
 
 ## Other projects
 
