@@ -12,9 +12,7 @@ A personal media library for tracking what you watch, read, and play. Search acr
 
 Built with Next.js, TypeScript, PostgreSQL, and Prisma. Includes catalog imports from multiple providers, moderation for user submissions, and CI that runs migrations and tests against PostgreSQL.
 
-[Open Listiq ↗](https://listiq-topaz.vercel.app/)
-
-<!-- After uploading the video, append: · [Watch 1-minute demo](YOUR_VIDEO_URL) -->
+[Open Listiq ↗](https://listiq-topaz.vercel.app/)  · [Source code](https://github.com/cementix/listiq)
 
 <img src="./assets/listiq-dashboard.jpg" alt="Listiq dashboard" width="60%">
 
