@@ -3,7 +3,7 @@
 <p>
   <img src="https://img.shields.io/badge/Frontend%20Developer-React%20·%20Next.js%20·%20TypeScript-5b5bd6?style=flat-square&labelColor=27272a" alt="Frontend Developer · React · Next.js · TypeScript">&nbsp;
   <img src="https://img.shields.io/badge/Wroc%C5%82aw%20·%20Remote-Available%20immediately%20·%2040%2B%20h%2Fweek-3f7d5c?style=flat-square&labelColor=27272a" alt="Wrocław · Remote · Available immediately · 40+ h/week">&nbsp;
-  <a href="https://www.roblox.com/communities/590020680/larpcoders#!/about"><img src="https://img.shields.io/badge/Roblox%20studio-larpcoders-71717a?style=flat-square&labelColor=27272a&logo=roblox&logoColor=white" alt="Roblox studio: larpcoders"></a>
+<a href="https://www.roblox.com/communities/590020680/larpcoders#!/about"><img src="https://img.shields.io/badge/Founder%20·%20Lead-larpcoders%20Roblox%20studio-71717a?style=flat-square&labelColor=27272a&logo=roblox&logoColor=white" alt="Founder and lead of larpcoders, a Roblox studio"></a>
 </p>
 <p>
   <a href="https://listiq-topaz.vercel.app"><img src="https://img.shields.io/badge/-Listiq-5b5bd6?style=flat-square&logo=vercel&logoColor=white" alt="Listiq"></a>&nbsp;
@@ -12,7 +12,9 @@
 <a href="https://www.linkedin.com/in/bohdanCementix/"><img src="https://img.shields.io/badge/-LinkedIn-3b6a9a?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDMuNWEyIDIgMCAxIDEgMCA0IDIgMiAwIDAgMSAwLTR6TTMuMyA5aDMuNHYxMS41SDMuM3pNOSA5aDMuM3YxLjZjLjUtLjkgMS43LTEuOSAzLjUtMS45IDMuNiAwIDQuMyAyLjQgNC4zIDUuNHY2LjRoLTMuNHYtNS43YzAtMS40IDAtMy4xLTEuOS0zLjFzLTIuMiAxLjUtMi4yIDN2NS44SDl6Ii8+PC9zdmc+" alt="LinkedIn"></a>
 </p>
 
-Frontend developer and student in Wrocław. I build complete products, not just pages: I care about how a thing looks and feels, and I also write the database, the payments and the tests behind it. Outside the web, I'm part of **[larpcoders](https://www.roblox.com/communities/590020680/larpcoders#!/about)**, a four-person Roblox studio where we build games in Luau.
+Frontend developer and student in Wrocław. I build complete products, not just pages: I care about how a thing looks and feels, and I also write the database, the payments and the tests behind it. 
+
+Outside the web, I founded and lead **[larpcoders](https://www.roblox.com/communities/590020680/larpcoders#!/about)**, a four-person Roblox studio where we build games in Luau.
 
 Looking for a **frontend or full-stack role** (React / Next.js / TypeScript) in Wrocław or remote. Available immediately, 40+ hours a week.
 
