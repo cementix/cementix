@@ -49,7 +49,7 @@ An interactive portfolio styled like a macOS desktop: open projects in Finder, d
 
 ## Roblox — larpcoders
 
-I run **[larpcoders](https://www.roblox.com/communities/590020680/larpcoders#!/about)**, a small Roblox development group. We build games in Luau with server-authoritative game logic, and model assets in Blender.
+I founded and lead **[larpcoders](https://www.roblox.com/communities/590020680/larpcoders#!/about)**, a four-person Roblox studio. I set the direction, split the work across the team and write game code myself — Luau with server-authoritative logic, assets modelled in Blender.
 
 ## Other projects
 
