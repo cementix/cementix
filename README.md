@@ -8,13 +8,15 @@ Full-stack developer based in Wrocław, Poland. I build web apps with React, Nex
 
 ### Listiq
 
-A personal media library for tracking what you watch, read, and play. Search across movies, anime, manga, games, and books, save titles to custom lists, and discover what to pick up next.
+A media tracker for movies, series, anime, manga, books and games — one library with ratings, reviews, lists, a social profile, swipe-style discovery and a Spotify Wrapped–style year in review. Try it in one click with a private demo sandbox, no sign-up needed.
 
-Built with Next.js, TypeScript, PostgreSQL, and Prisma. Includes catalog imports from multiple providers, moderation for user submissions, and CI that runs migrations and tests against PostgreSQL.
+- **Product:** landing page, one-click demo, Pro plan on Stripe (test mode), CSV import from Letterboxd and Goodreads, insights with charts and an activity heatmap, public share pages
+- **Engineering:** Next.js 16 (App Router, Server Actions), TypeScript, PostgreSQL + Prisma, 7 catalog providers synced by Vercel Workflow, rate limiting in Postgres, privacy enforced in queries
+- **Quality:** 74 unit, 29 integration and 5 Playwright e2e tests in CI on every push · Lighthouse 100 for accessibility · Docker setup
 
-[Open Listiq ↗](https://listiq-topaz.vercel.app/)  · [Source code](https://github.com/cementix/listiq)
+[Open Listiq ↗](https://listiq-topaz.vercel.app/) · [Source code](https://github.com/cementix/listiq) · [Case study](https://github.com/cementix/listiq/blob/master/docs/case-study.md)
 
-<img src="./assets/listiq-dashboard.jpg" alt="Listiq dashboard" width="60%">
+<img src="https://raw.githubusercontent.com/cementix/listiq/master/docs/screenshots/landing-hero.jpeg" alt="Listiq landing page with a wall of real catalog posters" width="70%">
 
 ### macOS Portfolio
 
@@ -25,6 +27,11 @@ Built with React, Vite, GSAP, and Zustand.
 [Open portfolio ↗](https://cementixx-macos-portfolio.vercel.app/) · [Source code](https://github.com/cementix/cementixx_macos_portfolio)
 
 <img src="./assets/macos-portfolio.jpg" alt="macOS portfolio with Finder and Dock" width="60%">
+
+## Open source
+
+- **[strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry)** — added a `record_exception_filter` option to the OpenTelemetry extension (PR in review)
+- **[atomityhq/atomity-cms](https://github.com/atomityhq/atomity-cms)** — fixed a sidebar logo label mismatch (merged)
 
 ## Other projects
 
